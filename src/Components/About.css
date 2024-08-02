@@ -1,0 +1,108 @@
+/*About.css*/
+
+.about-section {
+  /* margin: 0%; */
+  color: white;
+}
+
+.about-text {
+  text-align: center;
+  padding-top: 150px;
+  /* padding-right: 100px; */
+}
+
+.about-text p {
+  font-size: 18px;
+  text-align: justify;
+  margin-bottom: 100px;
+}
+
+.about-text h1 {
+  color: #ff7f50;
+  margin-top: 110px;
+}
+
+.about-text img {
+  height: 480px;
+  width: 700px;
+  float: left;
+}
+
+
+
+.values-grid {
+  display: flex;
+  justify-content: space-around;
+}
+
+.value-card {
+  background: #007bff;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px #ffffff1a;
+  padding: 20px;
+  text-align: center;
+  color: white;
+}
+.about-team{
+  color: #ff6f00;
+}
+.team-section {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+}
+
+.team-member-card {
+  background: #007bff;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px #ffffff1a;
+  padding: 20px;
+  text-align: center;
+  max-width: 250px;
+  margin: 0 auto;
+  color: white;
+}
+
+.team-member-image {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  margin-bottom: 15px;
+}
+
+nav ul {
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+  padding: 0;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  padding: 10px;
+  display: block;
+}
+
+nav ul li a:hover {
+  background: #0056b3;
+  border-radius: 5px;
+}
+
+
+.TeamMemberCard img {
+  transition: transform 0.3s ease-in-out;
+}
+
+.TeamMemberCard img:hover {
+  transform: scale(1.1);
+}
+
+.imageurl {
+  transition: transform 0.3s ease-in-out;
+}
+
+.imageurl:hover {
+  transform: scale(1.1);
+}

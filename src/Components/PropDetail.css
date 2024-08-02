@@ -1,0 +1,94 @@
+.Prop-detail {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: justify;
+}
+
+.Prop-carousel {
+    margin-bottom: 20px;
+}
+
+.Prop-info {
+    flex: 1;
+    justify-content: left;
+}
+
+.Prop-info h1 {
+    margin-top: 0;
+    font-size: 2em;
+}
+
+.Prop-info ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.Prop-info ul li {
+    margin-bottom: 10px;
+}
+
+.image-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.carousel-image {
+    max-width: 100%;
+    max-height: 45%vh;
+    object-fit: cover;
+}
+
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .local-information {
+    margin: 20px;
+  }
+  
+  .tabs {
+    display: flex;
+    border-bottom: 2px solid #ddd;
+  }
+  
+  .tab-button {
+    padding: 10px 20px;
+    cursor: pointer;
+    background: none;
+    border: none;
+    outline: none;
+    font-size: 16px;
+    border-bottom: 2px solid transparent;
+    transition: border-bottom 0.3s ease;
+  }
+  
+  .tab-button:hover,
+  .tab-button.active {
+    border-bottom: 2px solid #000;
+  }
+  
+  .tab-content {
+    margin-top: 20px;
+  }
+  
+  .tab-panel {
+    display: none;
+  }
+  
+  .tab-panel.active {
+    display: block;
+  }
+  
+  .map-image {
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+  }
+  

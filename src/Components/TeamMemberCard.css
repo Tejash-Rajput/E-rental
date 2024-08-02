@@ -1,0 +1,31 @@
+.team-member-card {
+  background: #007bff;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px #ffffff1a;
+  /* padding: 100px; */
+  text-align: center;
+  max-width: 250px;
+  height: 500px;
+}
+
+.team-member-image {
+  /* text-align: center; */
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  margin-bottom: 15px;
+  transition: transform 0.3s ease; 
+}
+
+.team-member-image:hover {
+  transform: scale(1.5); 
+}
+
+.social-icons a:hover {
+  color: #007bff;
+}
+
+.team-member-card.clicked .member-image {
+  transform: scale(2.5);
+}

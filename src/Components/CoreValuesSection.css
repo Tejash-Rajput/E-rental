@@ -1,0 +1,88 @@
+.core-values-container {
+  text-align: center;
+  padding-top: 200px;
+  padding-bottom: 50px;
+}
+
+.core-values-container h1 {
+  font-size: 28px;
+  color: #ff6f00; /* Use a similar color to the one in the first image */
+}
+
+.core-values-grid {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.core-values-row {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.core-value-item {
+  width: 200px;
+  padding: 20px;
+  margin: 10px;
+  text-align: center;
+}
+
+.core-value-icon {
+  margin-top: 10px;
+  width: 140px; /* Increased width */
+  height: 140px; /* Increased height */
+  border-radius: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 0px;
+  color: white;
+}
+
+.core-value-icon .icon {
+  font-size: 40px; /* Increased font size */
+}
+
+/* Add specific styles for each icon */
+.core-value-icon .star::before {
+  content: '\2605'; /* Unicode for star icon */
+}
+
+.core-value-icon .shield::before {
+  content: '\1F6E1'; /* Unicode for shield icon */
+}
+
+.core-value-icon .fist::before {
+  content: '\1F44A'; /* Unicode for fist icon */
+}
+
+.core-value-icon .group::before {
+  content: '\1F465'; /* Unicode for group icon */
+}
+
+.core-value-icon .network::before {
+  content: '\1F5A5'; /* Unicode for network icon */
+}
+
+.core-value-icon .arrow-right::before {
+  content: '\2192'; /* Unicode for arrow right icon */
+}
+
+.core-value-icon .lightbulb::before {
+  content: '\1F4A1'; /* Unicode for lightbulb icon */
+}
+
+.core-value-icon .handshake::before {
+  content: '\1F91D'; /* Unicode for handshake icon */
+}
+
+.core-value-item h3 {
+  font-size: 18px;
+  color: #333;
+}
+
+.core-value-item p {
+  font-size: 14px;
+  color: #666;
+}

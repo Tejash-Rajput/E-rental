@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "Cozy Beachside Bungalow",
+    "price": 150,
+    "location": "Miami Beach, FL",
+    "description": "Escape to this charming beachside bungalow, perfect for a relaxing getaway. Enjoy the sound of the waves and the warm ocean breeze from the private patio.",
+    "image": "https://i.imgur.com/8s3YX2q.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Modern City Loft",
+    "price": 200,
+    "location": "New York City, NY",
+    "description": "Experience the best of city living in this sleek and modern loft. Enjoy stunning views of the Manhattan skyline from the floor-to-ceiling windows.",
+    "image": "https://i.imgur.com/5tj6S2q.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Secluded Mountain Retreat",
+    "price": 180,
+    "location": "Asheville, NC",
+    "description": "Unwind in this secluded mountain retreat, surrounded by lush forests and scenic hiking trails. Perfect for nature lovers and those seeking a peaceful escape.",
+    "image": "https://i.imgur.com/3tj6S2q.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Charming Countryside Cottage",
+    "price": 120,
+    "location": "Sonoma, CA",
+    "description": "Escape to this charming countryside cottage, surrounded by rolling hills and vineyards. Enjoy a relaxing getaway in this cozy retreat, perfect for wine country explorers.",
+    "image": "https://i.imgur.com/4tj6S2q.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Luxury Beachfront Villa",
+    "price": 300,
+    "location": "Honolulu, HI",
+    "description": "Indulge in this luxurious beachfront villa, featuring stunning ocean views and direct access to the beach. Perfect for a tropical getaway with friends and family.",
+    "image": "https://i.imgur.com/6tj6S2q.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Cozy Ski Chalet",
+    "price": 220,
+    "location": "Breckenridge, CO",
+    "description": "Get ready to hit the slopes in this cozy ski chalet, located in the heart of Breckenridge. Enjoy a warm and inviting atmosphere, perfect for a winter wonderland getaway.",
+    "image": "https://i.imgur.com/7tj6S2q.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Rustic Farmhouse Retreat",
+    "price": 160,
+    "location": "Nashville, TN",
+    "description": "Escape to this rustic farmhouse retreat, surrounded by rolling hills and scenic countryside. Enjoy a peaceful getaway in this charming retreat, perfect for nature lovers and those seeking a relaxing escape.",
+    "image": "https://i.imgur.com/8tj6S2q.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Urban Oasis Apartment",
+    "price": 240,
+    "location": "Chicago, IL",
+    "description": "Experience the best of city living in this modern urban oasis apartment. Enjoy stunning views of the Chicago skyline and easy access to the city's top attractions.",
+    "image": "https://i.imgur.com/9tj6S2q.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Seaside Bungalow",
+    "price": 200,
+    "location": "San Diego, CA",
+    "description": "Relax in this charming seaside bungalow, located just steps from the beach. Enjoy stunning ocean views, a private patio, and easy access to the best of San Diego's coastal attractions.",
+    "image": "https://i.imgur.com/10tj6S2q.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Mountain Lodge",
+    "price": 280,
+    "location": "Aspen, CO",
+    "description": "Experience the ultimate mountain retreat in this luxurious lodge, nestled in the heart of Aspen. Enjoy stunning mountain views, a private hot tub, and easy access to world-class skiing and hiking.",
+    "image": "https://i.imgur.com/11tj6S2q.jpg"
+  }
+]
